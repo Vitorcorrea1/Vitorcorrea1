@@ -11,7 +11,6 @@ Minha meta é evoluir continuamente até me tornar Engenheiro de Software, sempr
 - 💻 Focado em desenvolvimento **Backend com Java e Spring Boot**
 - 🌐 Experiência acadêmica e prática com **sistemas e sites**
 - 📚 Estudo de forma autodidata através de cursos online
-- 🔧 Conhecimento em **HTML, CSS, Git, MySQL**
 - 🚀 Em busca da primeira oportunidade na área de desenvolvimento
 - 🎯 Meta: me tornar um **Engenheiro de Software**
 
